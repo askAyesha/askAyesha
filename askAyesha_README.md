@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on typescript based projects.
 - 📫 How to reach me [ email me at ank7336@gmail.com]
 - 😄 Pronouns: Ask [her] ! 
-- ⚡ Fun fact: i think i am late but on track!! 
+- ⚡ Fun fact: i correct mine through others mistakes 😅!!
 
 <!---
 askAyesha/askAyesha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
